@@ -8,6 +8,7 @@
 
 Ce projet est une version simplifiée et solitaire du célèbre jeu **Bataille Navale** (Battleship), développé en **Java pur** sans l’utilisation de tableaux ni de collections, uniquement basé sur la manipulation avancée de chaînes de caractères.
 
+Pour voir le projet en entier ouvrir le dossier src et ensuite le dossier battle/naval
 L’objectif principal était de mettre en pratique :
 
 - La structuration du code
