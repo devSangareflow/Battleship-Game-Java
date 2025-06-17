@@ -220,13 +220,14 @@ public class BatailleNavale {
                 System.out.println("Munitions restantes : " + munitions);
             }
 
-            if (nbTirsReussis == NB_TOTAL_BATEAUX) {
-                System.out.println("BRAVO! Vous avez détruit la flotte ennemie!");
-            } else {
-                int bateauxRestants = NB_TOTAL_BATEAUX - nbTirsReussis;
-                System.out.println("DÉSOLÉ! Vous avez épuisé toutes vos munitions!");
-                System.out.println("Nombre de vaisseaux non coulés : " + bateauxRestants);
-            }
+                if (nbTirsReussis == NB_TOTAL_BATEAUX) {
+                      System.out.println("BRAVO! Vous avez détruit la flotte ennemie!");
+               } else {
+                      int casesRestantes = NB_TOTAL_BATEAUX - nbTirsReussis;
+                      System.out.println("DÉSOLÉ! Vous avez épuisé toutes vos munitions!");
+                      System.out.println("Nombre de cases de vaisseaux non touchées : " + casesRestantes);
+             }
+
 
         } while (demanderRejouer());
 
