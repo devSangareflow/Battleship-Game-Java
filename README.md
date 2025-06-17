@@ -3,7 +3,7 @@
 🎯 **Projet personnel réalisé en Java afin de pratiquer et consolider les notions fondamentales de programmation orientée objet et de gestion de projet logiciel.**
 
 ---
-
+Pour voir l'intégralité de mon code, veuillez ouvrir le dossier src et ensuite battle/naval
 ## 📋 Présentation
 
 Ce projet est une version simplifiée et solitaire du célèbre jeu **Bataille Navale** (Battleship), développé en **Java pur** sans l’utilisation de tableaux ni de collections, uniquement basé sur la manipulation avancée de chaînes de caractères.
