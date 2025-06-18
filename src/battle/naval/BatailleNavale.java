@@ -11,6 +11,7 @@ package battle.naval;
  * - Gère une grille 8x8 représentée par une chaîne de 64 caractères.
  * - Génère aléatoirement la grille de solution via la classe JeuUtils.
  * - Permet au joueur d'effectuer des tirs, avec détection de tirs réussis, manqués et redondants.
+ * - Affiche B dans la case si le tir est réussi ou X sinon c'est à dire tir manqué.
  * - Compte le nombre de vaisseaux coulés et détermine la victoire ou la défaite.
  * - Offre la possibilité de rejouer après chaque partie avec une validation stricte des entrées.
  *
